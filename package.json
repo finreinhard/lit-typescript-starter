@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/finreinhard/lit-typescript-starter/issues"
   },
-  "homepage": "https://github.com/finreinhard/lit-typescript-starter#readme"
+  "homepage": "https://github.com/finreinhard/lit-typescript-starter#readme",
+  "dependencies": {
+    "lit": "^2.4.1"
+  }
 }
