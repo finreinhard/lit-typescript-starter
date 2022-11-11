@@ -1,7 +1,7 @@
 {
   "name": "lit-typescript-starter",
   "version": "1.0.0",
-  "description": "Plain starter just with TypeScript and one example component",
+  "description": "plain starter with the bare minimum",
   "main": "build/index.mjs",
   "files": ["build"],
   "scripts": {
