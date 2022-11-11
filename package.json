@@ -2,12 +2,14 @@
   "name": "lit-typescript-starter",
   "version": "1.0.0",
   "description": "Plain starter just with TypeScript and one example component",
-  "main": "index.ts",
+  "main": "build/index.mjs",
+  "files": ["build"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "vite --config vite.config.ts",
     "lint": "eslint . --ext .ts",
-    "lint.fix": "eslint . --ext .ts --fix"
+    "lint.fix": "eslint . --ext .ts --fix",
+    "build": "vite build --config vite.config.ts && npx tsc --declaration --emitDeclarationOnly --outfile build/index.d.ts"
   },
   "repository": {
     "type": "git",
