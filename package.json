@@ -1,7 +1,7 @@
 {
-  "name": "taskbar-color",
+  "name": "lit-typescript-starter",
   "version": "1.0.0",
-  "description": "A web component which can manage the color of the task bar in Safari\n\nTopics\nResources\n",
+  "description": "plain starter with the bare minimum",
   "main": "build/index.mjs",
   "files": ["build"],
   "scripts": {
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/finreinhard/taskbar-color.git"
+    "url": "git+https://github.com/finreinhard/lit-typescript-starter.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/finreinhard/taskbar-color/issues"
+    "url": "https://github.com/finreinhard/lit-typescript-starter/issues"
   },
-  "homepage": "https://github.com/finreinhard/taskbar-color#readme",
+  "homepage": "https://github.com/finreinhard/lit-typescript-starter#readme",
   "dependencies": {
     "lit": "^2.4.1"
   },

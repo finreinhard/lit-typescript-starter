@@ -1,3 +1,6 @@
-import taskbarColor from "./taskbar-color";
+import exampleComponent from "./example-component";
 
-export default taskbarColor;
+export {
+  // eslint-disable-next-line import/prefer-default-export
+  exampleComponent,
+};
