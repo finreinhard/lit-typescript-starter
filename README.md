@@ -8,6 +8,7 @@ It includes:
 - ESLint
 - Prettier
 - Vite Dev Server
+- Vite Library Build
 
 ## Development
 
