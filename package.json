@@ -1,0 +1,19 @@
+{
+  "name": "lit-typescript-starter",
+  "version": "1.0.0",
+  "description": "Plain starter just with TypeScript and one example component",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finreinhard/lit-typescript-starter.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finreinhard/lit-typescript-starter/issues"
+  },
+  "homepage": "https://github.com/finreinhard/lit-typescript-starter#readme"
+}
